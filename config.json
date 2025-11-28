@@ -1,0 +1,27 @@
+{
+    "name": "Usman",
+    "title": "Graduate Engineer",
+    "sections": {
+    "About": {
+    "description": "Graduate Mechanical Engineer focusing on Mathematical Modelling, DRL, Scheduling, and Industry 4.0 systems."
+    },
+    "Projects": [
+    {
+    "name": "RL-FJSP Simulator",
+    "description": "Reinforcement Learning simulator for Flexible Job Shop Scheduling.",
+    "link": "https://github.com/<ROO-G>/rl-fjsp-simulator"
+    },
+    {
+    "name": "Thesis: Decision-Making Under Uncertainty",
+    "description": "Mathematical modelling & optimisation methods for high-uncertainty engineering systems.",
+    "link": "https://github.com/<ROO-G>/thesis-project"
+    },
+    {
+    "name": "DRL Scheduling Experiments",
+    "description": "Fun test projects using deep RL algorithms on manufacturing scheduling.",
+    "link": "https://github.com/<ROO-G>/drl-scheduling-experiments"
+    }
+    ],
+    "CV": "https://www.canva.com/design/DAF7Q54q2J0/gw_1yzfFlDU2HRT8auoyPQ/edit"
+    }
+    }
